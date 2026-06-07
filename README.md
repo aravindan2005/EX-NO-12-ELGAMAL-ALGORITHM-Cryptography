@@ -1,5 +1,6 @@
 # EX-NO-12-ELGAMAL-ALGORITHM
-
+## NAME: ARAVINDAN T
+## REG NO: 2305001003
 ## AIM:
 To Implement ELGAMAL ALGORITHM
 
@@ -24,7 +25,7 @@ To Implement ELGAMAL ALGORITHM
 6. Security: The security of the ElGamal algorithm relies on the difficulty of solving the discrete logarithm problem in a large prime field, making it secure for encryption.
 
 ## Program:
-```
+```python
 import random
 
 def modinv(a, p):
@@ -68,7 +69,7 @@ print("Decrypted Message:", decrypted)
 
 ## Output:
 
-
+<img width="319" height="169" alt="image" src="https://github.com/user-attachments/assets/71e65669-3dc5-4560-8eb0-370d00bea0b4" />
 
 ## Result:
 The program is executed successfully.
